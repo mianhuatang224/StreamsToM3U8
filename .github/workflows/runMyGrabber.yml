@@ -1,0 +1,28 @@
+name: LinkMyGrabber
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+jobs:
+
+  runCode:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Grab Link
+
+        run: |
+          git config --global user.email "mianhuatang224@hll.localhost"
+          git config --global user.name "mianhuatang224"
+          chmod +x exec_mygrabber.sh && ./exec_mygrabber.sh
+          git add -A
+          git commit -m "Playlist updated."
+          git push
