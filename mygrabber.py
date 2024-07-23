@@ -167,7 +167,7 @@ channel_id = ''
 category = ''
 
 # Open text file and parse stream information and URL
-with open('./streams.txt', encoding='utf-8') as f:
+with open('./mystreams.txt', encoding='utf-8') as f:
     print("#EXTM3U")
     for line in f:
         line = line.strip()
