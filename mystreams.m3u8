@@ -7,10 +7,10 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" group-title="Taiwan", TVBS新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151679/ei/3-C0ZtX_BZL3sfIPnavVEA/ip/20.172.5.210/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Mv1m9g9jQf2Pn1h-YG70hsHVQZfD4ENkDWqCF_VlU1ViBCtOfJ_kUrbRDPUurUs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANmw-5nxsjRpGlr_VkGi9AQjn4WRKNz8Or-uHHwm7xt-AiEAr71zEJRZNardNGUA_nVqBw1lZrjunj4BS0CIt2X3luY%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="Taiwan", 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151679/ei/3-C0ZvDcNLfysfIPhYqy6QU/ip/20.172.5.210/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9ohsH6WMaQyZZcpYx-TQQwa7uzNp2DRQ4LAXyHgduH9yhVSJwHjqXyK8ZIQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJjKuLk_oIwnlqYNCY6bmIJNHA3dobHMrarl_gyIFb20AiBWZh1qdveXzjNgLYKkKOwj87xMIPTJvfh7l9N__yLXdg%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" group-title="Taiwan", 民視新聞
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
@@ -22,7 +22,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="Singapore", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151681/ei/4eC0ZoGiNpnzsfIP9va3uQk/ip/20.172.5.210/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9opEbUAnuHJWxAkhL_Txr7BN_sj0nFFToz4-7ZkJoXV6YwcmsBS91jxsAd4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJzq-J6apmp-rGoi9lYPXUG7nxGON3Jwkk7N_owjHFq4CIGX9wCawTRV_Rn90Z9cVPcA0Wr4sh9bESn2JKz976KFp/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="Germany", DW
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
