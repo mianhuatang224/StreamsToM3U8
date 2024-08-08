@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music (jazzy & lofi hip hop beats)" group-title="Music", Chillhop Music (jazzy & lofi hip hop beats)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151259/ei/O9-0Zt6QOb3Tlu8PytKj0Qk/ip/52.252.195.228/id/5yx6BWlEVcY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9nlaAbkgWZvI_b_SdH-kEoxMtebARH8j5l0-6z2GFW9y0Oea923tF0LlMFk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI3h261UYvUQjlmyPqe09Poo0Cs5RGVDD8QC0QppxTCUCIBpjExuwEiOa_HFdra-_LOT7nwTVVsHlVebPN1UnPAf1/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Avex.yt" tvg-name="Avex J-Pop 24/7" group-title="Music", Avex J-Pop 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151260/ei/PN-0ZvDzHaaHir4P_ZCvsAk/ip/52.252.195.228/id/tr77RbnfYIU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9lVOb71VynTOiF_ef4H89pbIogEbWCvp90hp5R525ifIE2yhjOZwRdcWcmc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUBrSSPRJRD6XjhCeUewTOdD8aTrbJqEaovOqnusWkBcCIDz_v2tUe4_DM7e6PmPIwmkrgPn-o3SYL5Nftqcyf-cm/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland: One World Radio" group-title="Music", Tomorrowland: One World Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151261/ei/Pd-0ZoXCCbD0ir4P7Mn02AM/ip/52.252.195.228/id/wBgSH-CGPzg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9hARnEbFNhRrTbHWYEMCOCTZJsUc0CSIyD9zazxs4iKZbbbEpoRhtdBoPYY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgONXqNj7h_ubcUuuv2ORlc8Ke7HNShcxJAufVsk9msfUCIF9DPAWmUFsXZzylHAf4Gt3M73SheDixJPtbUOIUQGre/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="JPod101.yt" tvg-name="JapanesePod101 Live" group-title="Education", JapanesePod101 Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151261/ei/Pd-0ZuTzL4XOlu8PjcPK4Q0/ip/52.252.195.228/id/mSIr6VppC0o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9uq2Lk8ef-ZRVY7lJPjH_5g03HTZeSBBA1e8NdYoc0tBbplKO7GT4heF3JM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMtalpKlEAlhsZR58qocHSrSla3xu98QSA49DIPsVGTOAiEA3SrNhgGqaAb3P6fTPRHoNyv8WmOGu8qF05gHYT5kJOs%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="ironmouse" tvg-name="ironmouse" group-title="Gaming", ironmouse
