@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music (jazzy & lofi hip hop beats)" group-title="Music", Chillhop Music (jazzy & lofi hip hop beats)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737601498/ei/el2RZ6ycDNjysfIP5erNwAk/ip/20.169.14.34/id/5yx6BWlEVcY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-Myj0oxXmH8jrt0Qw_JRAAJRcxFd3WNYMhPBeHtoVSKfFwOiTZUtHYVqMWSO2Jesr2tbd4atx_b/spc/9kzgDRhM8eM0RjRIemW8Rqp4PPH0g39_0a2DBCp7K-4OOAYRAFbwYYabuK6QoAQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfq-EPK9uoh31G1Y5mvXSJTZlViS9NTsku-dRm_nwhnMCIBndwktRp3TMensYNrwfBC4eVf9Gle1qSLTRDanbV07G/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Avex.yt" tvg-name="Avex J-Pop 24/7" group-title="Music", Avex J-Pop 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737601498/ei/el2RZ4mfMubbsfIP9rqp4AM/ip/20.169.14.34/id/tr77RbnfYIU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NLBgBBD7geBlj-MaddKsYbXPP7N_g1INxf4GUt42bnTTfe6seQOlmfzeDsmMVt00i1AGIKcYOb/spc/9kzgDbLq84RSPSUaRTfLzWrj_Br-WrLvpkVorHbp2sW49lnt1w8V2JMWNrULsfk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGWclyUwATe8CfXcenfMpzmwc_XJ2W6TdzxSIbk4nS5sCIGtXqmGPXj1CWklm2hZtUkOtMZjWP0yX3iGD7cZjdunx/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland: One World Radio" group-title="Music", Tomorrowland: One World Radio
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
