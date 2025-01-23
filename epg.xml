@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8">
+  <channel id="TVBS新聞">
+    <display-name lang="en">TVBS新聞</display-name>
+  </channel>
+  <programme channel="TVBS新聞" start="20250123180000 +0000" stop="20250123210000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250123210000 +0000" stop="20250124000000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124000000 +0000" stop="20250124030000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124030000 +0000" stop="20250124060000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124060000 +0000" stop="20250124090000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124090000 +0000" stop="20250124120000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124120000 +0000" stop="20250124150000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20250124150000 +0000" stop="20250124180000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">TVBS信望愛永續基金會，攜手花蓮在地愛無限夥伴，援助關懷受災戶，重建家園。愛心捐款頁面：https://reurl.cc/xLzZYeTVBS信望愛永續基金會勸募許可字號/衛部救字第 1121363527 號#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+</tv>
