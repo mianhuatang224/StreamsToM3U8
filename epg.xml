@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8">
+  <channel id="台視新聞">
+    <display-name lang="en">台視新聞</display-name>
+  </channel>
+  <programme channel="台視新聞" start="20251106010000 +0000" stop="20251106040000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106040000 +0000" stop="20251106070000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106070000 +0000" stop="20251106100000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106100000 +0000" stop="20251106130000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106130000 +0000" stop="20251106160000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106160000 +0000" stop="20251106190000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106190000 +0000" stop="20251106220000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+  <programme channel="台視新聞" start="20251106220000 +0000" stop="20251107010000 +0000">
+    <title lang="en">台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
+    <desc lang="en">#台視新聞 #新聞直播 #直播◎【台視新聞網】👉https://news.ttv.com.tw/◎訂閱【台視新聞】👉https://www.youtube.com/c/ttvnewsview◎訂閱【TTV LIVE台視直播】👉https://www.youtube.com/c/twlivenews◎按讚【台...</desc>
+    <icon src="https://i.ytimg.com/vi/xL0ch83RAK8/maxresdefault.jpg?v=606152e7"/>
+  </programme>
+</tv>
