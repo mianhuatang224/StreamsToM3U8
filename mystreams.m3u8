@@ -10,7 +10,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="Taiwan", 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762413664/ei/APgLaamyDPaXut0PmPiIsQQ/ip/52.159.226.1/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Rla0rB5ug6IaJ8f1758k1GRjq7RYiDjPmxzT1O-PvooVQlWVPQtCqdtv6unKTuzcyAeY8K4HWC/spc/6b0G_BzcgKJQiI-UL-klla96vc51Z787XiThEU2d9ltN0gDYJGOZ6_A9WtDwX1sAbJ4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRzibm91rJaKW07FgY3E9a-ke2-k8JFoHJ-gDOSrmIHsCIQCcW0G8xe20oVWJ3mREOCaa74vbQvZgKcSzS23HPoTT0w%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" group-title="Taiwan", 民視新聞
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
