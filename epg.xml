@@ -1,1 +1,88 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/mianhuatang224/StreamsToM3U8">
+  <channel id="TVBS新聞">
+    <display-name lang="en">TVBS新聞</display-name>
+  </channel>
+  <programme channel="TVBS新聞" start="20260319210000 +0000" stop="20260320000000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320000000 +0000" stop="20260320030000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320030000 +0000" stop="20260320060000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320060000 +0000" stop="20260320090000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320090000 +0000" stop="20260320120000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320120000 +0000" stop="20260320150000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320150000 +0000" stop="20260320180000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <programme channel="TVBS新聞" start="20260320180000 +0000" stop="20260320210000 +0000">
+    <title lang="en">【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송</title>
+    <desc lang="en">#TVBS #新聞 #直播 #新聞網#LIVE #娛樂 #國際 #精選 #即時新聞 #即時資訊 #國際消息 #國際新聞 #國際#政論 #政治 #在地聲音 #健康 #節目 #社會 #社會新聞 #氣象 #今日氣象 #今日天氣 #資訊#TVBS新聞 #TVBS直播 #TVBS新聞網【重要公告，感謝各位觀眾長久以來的支持...</desc>
+    <icon src="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg?v=624efc92"/>
+  </programme>
+  <channel id="CNA">
+    <display-name lang="en">CNA</display-name>
+  </channel>
+  <programme channel="CNA" start="20260319210000 +0000" stop="20260320000000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320000000 +0000" stop="20260320030000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320030000 +0000" stop="20260320060000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320060000 +0000" stop="20260320090000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320090000 +0000" stop="20260320120000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320120000 +0000" stop="20260320150000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320150000 +0000" stop="20260320180000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA" start="20260320180000 +0000" stop="20260320210000 +0000">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+</tv>
