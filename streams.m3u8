@@ -4,7 +4,7 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Avex.yt" tvg-name="Avex J-Pop 24/7" group-title="Music", Avex J-Pop 24/7
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778288421/ei/xTL-adLkMt_xybgPnMWlKA/ip/172.183.135.247/id/tr77RbnfYIU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwqOkWgKyo6GbtXGZFGts03lnKtEoCcaQZ0f5VPwXCUP0V5niXo1EhdUPk_h4Qro5X9qXboG-KTj/spc/96Xrvz07ByJP6H_A4kB-S3VJ5BxtIv17cj3ZlaO5QHHurungp2E8O4UvPFZVN8K8sNiV9w/vprv/1/go/1/ns/08uobnCFSjv1fqAq2sajJBoV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/tKf_grnnv5gCs_yYRT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPc0m8UEJvPwi0pUm9BPG4H3YKz3wdIN_y4ICdcD-kDrAiBt1xadMOGCAjGogMkvu4BZm2o9sI8OsqllfpeOQyXi4A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland: One World Radio" group-title="Music", Tomorrowland: One World Radio
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
